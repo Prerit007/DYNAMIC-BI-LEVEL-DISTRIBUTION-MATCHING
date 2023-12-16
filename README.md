@@ -6,4 +6,3 @@ The repository is based on [this repo](https://github.com/uitrbn/idm) and [this 
 
 The pretrained model for ImageNet Subset with 50 ipc can be download [here](https://drive.google.com/file/d/1jPkb3yFGvTvX14RdLTL4-z-UPWOv_Tb1/view?usp=sharing). The synthetic dataset will be released soon.
 
-```
